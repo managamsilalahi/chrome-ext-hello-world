@@ -1,5 +1,4 @@
-# chrome-ext-hello-world
-Hello World Chrome Extension
+# Hello World Chrome Extension
 Followed tutorial from: https://youtu.be/P8_hJCcHJdc
 
 # How to install?
